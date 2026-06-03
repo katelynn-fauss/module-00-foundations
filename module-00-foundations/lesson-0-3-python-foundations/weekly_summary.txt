@@ -1,0 +1,13 @@
+Weekly Sales Report
+-------------------
+week 1: 12000
+week 2: 8500
+week 3: 15400
+Week 4: 9800
+week 5: 11200
+week 6: 9500
+week 7: 7000
+week 8: 6000
+
+Total: 79400
+Average: 9925.0

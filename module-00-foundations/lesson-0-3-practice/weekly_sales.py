@@ -1,0 +1,46 @@
+# weekly_sales.py
+# LinenLane Weekly Sales Report
+
+sales_by_week = {
+    "week 1": 12000,
+    "week 2": 8500,
+    "week 3": 15400,
+    "Week 4": 9800,
+    "week 5": 11200,
+    "week 6": 9500,
+    "week 7": 7000, 
+    "week 8": 6000, 
+}
+
+def calculate_total(sales_dict):
+    total = 0
+    for revenue in sales_dict.values():
+        total = total + revenue
+    return total
+
+def calculate_average(sales_dict):
+    total = calculate_total(sales_dict)
+    count = len(sales_dict)
+    return total / count
+
+print("Weekly Sales Report")
+print("-------------------")
+
+for week, revenue in sales_by_week.items():
+    print(week, ":", revenue)
+
+print()
+print("Summary")
+print("-------")
+print("Total:", calculate_total(sales_by_week))
+print("Average:", calculate_average(sales_by_week))
+print("Number of weeks:", len(sales_by_week))
+
+with open("weekly_summary.txt", "w") as f:
+    f.write("Weekly Sales Report\n")
+    f.write("-------------------\n")
+    for week, revenue in sales_by_week.items():
+        f.write(f"{week}: {revenue}\n")
+    f.write("\n")
+    f.write(f"Total: {calculate_total(sales_by_week)}\n")
+    f.write(f"Average: {calculate_average(sales_by_week)}\n")
