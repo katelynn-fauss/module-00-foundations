@@ -36,8 +36,8 @@ Below are the projects I've completed so far, organized by module.
 
 ## Connect
 
-- LinkedIn: [your URL]
-- GitHub: [your URL]
+- LinkedIn: [(https://www.linkedin.com/in/katelynn-fauss-371aa8412/)]
+- GitHub: [https://github.com/katelynn-fauss]
 
 ## License
 
