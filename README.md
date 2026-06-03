@@ -1,4 +1,4 @@
-# [Your Name]'s Data Analytics Portfolio
+# Katelynn's Data Analytics Portfolio
 
 I'm completing Coding Temple's AI Data Analytics Foundations program (six months,
 Modules 0 through 12). This repository links to my work across the program.
