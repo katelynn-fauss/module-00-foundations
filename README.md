@@ -5,7 +5,7 @@ Modules 0 through 12). This repository links to my work across the program.
 
 ## About Me
 
-[Two to three sentences. Your background, your target role, what you're building toward.]
+Hello, my name is Katelynn. My background includes management and supervisor expierences, my target role is a data analyst generalist. I'm building toward becoming a highly effective analyst who can not only interpret data accurately but also translate insights into business decisions. In the near term, I want to strengthen my technical skills in data analysis, reporting, and visualization while gaining a deeper understanding of business operations. Over time, I'd like to take on more strategic responsibilities, helping organizations solve complex problems and improve performance through data-driven recommendations.
 
 ## Modules and Projects
 
